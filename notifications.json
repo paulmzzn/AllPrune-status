@@ -1,5 +1,20 @@
 [
     {
+        "id": "update-1-1-1-info",
+        "date": "2026-01-15T12:00:00Z",
+        "title": {
+            "fr": "Mise à jour 1.1.1 disponible",
+            "en": "Update 1.1.1 Available"
+        },
+        "message": {
+            "fr": "Une mise à jour mineure est disponible avec des améliorations du système de mise à jour.",
+            "en": "A minor update is available with improvements to the update system."
+        },
+        "type": "info",
+        "min_version": "1.0.0",
+        "active": true
+    },
+    {
         "id": "update-1-1-0-info",
         "date": "2026-01-14T12:00:00Z",
         "title": {
