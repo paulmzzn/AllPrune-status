@@ -1,5 +1,20 @@
 [
     {
+        "id": "random-feature-tip",
+        "date": "2026-01-15T13:15:00Z",
+        "title": {
+            "fr": "Astuce du jour",
+            "en": "Tip of the day"
+        },
+        "message": {
+            "fr": "Saviez-vous que vous pouvez personnaliser votre dashboard dans les réglages ?",
+            "en": "Did you know you can customize your dashboard in the settings?"
+        },
+        "type": "tip",
+        "min_version": "1.0.0",
+        "active": true
+    },
+    {
         "id": "update-1-1-1-info",
         "date": "2026-01-15T12:00:00Z",
         "title": {
