@@ -1,14 +1,14 @@
 [
     {
-        "id": "welcome-message",
-        "date": "2026-01-14T10:00:00Z",
+        "id": "update-1-1-0-info",
+        "date": "2026-01-14T12:00:00Z",
         "title": {
-            "fr": "Bienvenue sur AllPrune",
-            "en": "Welcome to AllPrune"
+            "fr": "Mise à jour 1.1.0 disponible",
+            "en": "Update 1.1.0 Available"
         },
         "message": {
-            "fr": "Merci d'utiliser AllPrune ! Consultez les nouveautés pour voir ce qui a changé.",
-            "en": "Thanks for using AllPrune! Check the changelog to see what's new."
+            "fr": "Découvrez le nouvel Onboarding, le Tutoriel Interactif et le thème Vert !",
+            "en": "Discover the new Premium Onboarding, Interactive Tutorial, and Green Theme!"
         },
         "type": "info",
         "min_version": "1.0.0",
