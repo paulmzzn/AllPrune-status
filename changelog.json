@@ -1,5 +1,16 @@
 [
     {
+        "version": "1.1.1",
+        "date": "2026-01-15",
+        "changes": [
+            {
+                "fr": "Amélioration du système de mise à jour des applications",
+                "en": "Improved applications update system"
+            }
+        ],
+        "is_major": false
+    },
+    {
         "version": "1.1.0",
         "date": "2026-01-14",
         "changes": [
