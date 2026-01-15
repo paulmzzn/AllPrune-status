@@ -1,0 +1,79 @@
+[
+    {
+        "version": "1.1.0",
+        "date": "2026-01-14",
+        "changes": [
+            {
+                "fr": "✨ Nouvel Onboarding Premium",
+                "en": "✨ New Premium Onboarding"
+            },
+            {
+                "fr": "🔦 Tutoriel Interactif (Spotlight)",
+                "en": "🔦 Interactive Tutorial (Spotlight)"
+            },
+            {
+                "fr": "🧹 Refonte du module Nettoyage (Vues Cartes)",
+                "en": "🧹 Cleaner Module Overhaul (Card Views)"
+            },
+            {
+                "fr": "🎨 Thème Vert Global & UI Liquid Glass",
+                "en": "🎨 Global Green Theme & Liquid Glass UI"
+            },
+            {
+                "fr": "🔒 Gestion améliorée des permissions/accès disque",
+                "en": "🔒 Improved Permissions/Disk Access Management"
+            },
+            {
+                "fr": "🖥️ Comportement dynamique du Dock",
+                "en": "🖥️ Dynamic Dock Behavior"
+            }
+        ],
+        "is_major": true
+    },
+    {
+        "version": "1.0.1",
+        "date": "2026-01-13",
+        "changes": [
+            {
+                "fr": "Amélioration de l'interface des Nouveautés",
+                "en": "Improved What's New Interface"
+            },
+            {
+                "fr": "Correction mineure sur le calcul de l'âge",
+                "en": "Minor fix on age calculation"
+            },
+            {
+                "fr": "Ajout de la timeline de mises à jour",
+                "en": "Added update timeline"
+            }
+        ],
+        "is_major": false
+    },
+    {
+        "version": "1.0.0",
+        "date": "2026-01-13",
+        "changes": [
+            {
+                "fr": "Lancement officiel de AllPrune",
+                "en": "AllPrune Official Launch"
+            },
+            {
+                "fr": "Interface Liquid Glass moderne",
+                "en": "Modern Liquid Glass Interface"
+            },
+            {
+                "fr": "Nettoyage Xcode, Node_modules, Caches",
+                "en": "Xcode, Node_modules, Cache Cleaning"
+            },
+            {
+                "fr": "Mode Dry Run pour la sécurité",
+                "en": "Dry Run Mode for safety"
+            },
+            {
+                "fr": "Support complet Français/Anglais",
+                "en": "Full French/English Support"
+            }
+        ],
+        "is_major": true
+    }
+]

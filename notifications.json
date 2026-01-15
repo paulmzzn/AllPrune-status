@@ -1,0 +1,17 @@
+[
+    {
+        "id": "welcome-message",
+        "date": "2026-01-14T10:00:00Z",
+        "title": {
+            "fr": "Bienvenue sur AllPrune",
+            "en": "Welcome to AllPrune"
+        },
+        "message": {
+            "fr": "Merci d'utiliser AllPrune ! Consultez les nouveautés pour voir ce qui a changé.",
+            "en": "Thanks for using AllPrune! Check the changelog to see what's new."
+        },
+        "type": "info",
+        "min_version": "1.0.0",
+        "active": true
+    }
+]
